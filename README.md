@@ -12,7 +12,7 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Location-Ankara_Türkiye-4B0082?style=for-the-badge&logo=location-dot" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Türkiye-4B0082?style=for-the-badge&logo=location-dot" alt="Location" />
   <a href="https://bedirhan-orseloglu-portfolyo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=globe" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/bedirhanorseloglu"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:orseloglubedirhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail" alt="Email" /></a>
