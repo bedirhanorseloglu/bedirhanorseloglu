@@ -186,10 +186,10 @@ Delivered a complete fullstack application from development to deployment, gaini
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedirhanorseloglu&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&count_private=true&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedirhanorseloglu&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&count_private=true&v=2" alt="GitHub Streak" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanorseloglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanorseloglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&count_private=true&v=2" alt="Top Languages" width="60%" />
 </div>
 
 ---
