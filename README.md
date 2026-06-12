@@ -185,13 +185,6 @@ Delivered a complete fullstack application from development to deployment, gaini
 
 ---
 
-## 🧑‍💻 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
-</div>
 
 ---
 
