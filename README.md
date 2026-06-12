@@ -206,7 +206,7 @@ Delivered a complete fullstack application from development to deployment, gaini
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/output/github-contribution-grid-snake-dark.svg?v=1" alt="GitHub Snake Animation" />
 </div>
 
 ---
