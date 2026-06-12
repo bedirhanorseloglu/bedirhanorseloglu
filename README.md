@@ -186,8 +186,6 @@ Delivered a complete fullstack application from development to deployment, gaini
 ---
 
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
