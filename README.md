@@ -181,10 +181,7 @@ Delivered a complete fullstack application from development to deployment, gaini
 * ![Turkcell](https://img.shields.io/badge/Turkcell-Data_Science_&_Machine_Learning-4B0082?style=flat-square&logo=datacamp) (2023 - 2025)
     * Extensive series covering Data Manipulation (Pandas, Numpy), Machine Learning (CRISP-DM), and Deep Learning (CNN, RNN, LSTM).
 
-*(Note: Holds 30+ technical certifications available on LinkedIn profile)*.
-
 ---
-
 
 ## 📊 GitHub Analytics
 
@@ -200,7 +197,9 @@ Delivered a complete fullstack application from development to deployment, gaini
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bedirhanorseloglu&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bedirhanorseloglu&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
