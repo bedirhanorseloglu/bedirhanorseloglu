@@ -3,11 +3,11 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F2A900&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Fullstack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
   <br/>
-  <img src="https://img.shields.io/badge/B.S.-Software_Engineering-A32638?style=for-the-badge&logo=probot" alt="Degree" />
-  <img src="https://img.shields.io/badge/GPA-3.67%2F4.00-F2A900?style=for-the-badge&logo=google-scholar&logoColor=black" alt="GPA" />
+  <img src="https://img.shields.io/badge/B.S.-Software_Engineering-A32638?style=for-the-badge" alt="Degree" />
+  <img src="https://img.shields.io/badge/GPA-3.67%2F4.00-F2A900?style=for-the-badge" alt="GPA" />
   <br/>
-  <img src="https://img.shields.io/badge/Location-Türkiye-A32638?style=for-the-badge&logo=location-dot" alt="Location" />
-  <a href="https://bedirhan-orseloglu-portfolyo.web.app/"><img src="https://img.shields.io/badge/Portfolio-Website-F2A900?style=for-the-badge&logo=globe&logoColor=black" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Location-Türkiye-A32638?style=for-the-badge" alt="Location" />
+  <a href="https://bedirhan-orseloglu-portfolyo.web.app/"><img src="https://img.shields.io/badge/Portfolio-Website-F2A900?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/bedirhanorseloglu"><img src="https://img.shields.io/badge/LinkedIn-Connect-A32638?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:orseloglubedirhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-F2A900?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
   <a href="https://github.com/bedirhanorseloglu"><img src="https://img.shields.io/badge/GitHub-Profile-A32638?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -166,11 +166,11 @@ Delivered a complete fullstack application from development to deployment, gaini
   * Comprehensive training covering Agile Management, Project Planning, and Execution.
 
 ### Yapay Zeka ve Teknoloji Akademisi
-* ![AI Academy](https://img.shields.io/badge/AI_&_Technology-Academy_Graduate-F2A900?style=flat-square&logo=probot&logoColor=black) (2025)
+* ![AI Academy](https://img.shields.io/badge/AI_&_Technology-Academy_Graduate-F2A900?style=flat-square) (2025)
   * Successfully completed bootcamp focusing on web development and artificial intelligence.
 
 ### Turkcell Geleceği Yazanlar
-* ![Turkcell](https://img.shields.io/badge/Turkcell-Data_Science_&_Machine_Learning-A32638?style=flat-square&logo=datacamp) (2023 - 2025)
+* ![Turkcell](https://img.shields.io/badge/Turkcell-Data_Science_&_Machine_Learning-A32638?style=flat-square) (2023 - 2025)
   * Extensive series covering Data Manipulation (Pandas, Numpy), Machine Learning (CRISP-DM), and Deep Learning (CNN, RNN, LSTM).
 
 ---
@@ -178,10 +178,10 @@ Delivered a complete fullstack application from development to deployment, gaini
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&icon_color=F2A900&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&icon_color=F2A900&text_color=FFFFFF&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=bedirhanorseloglu&theme=tokyonight&hide_border=true&background=0D1117&ring=A32638&fire=F2A900&currStreakLabel=F2A900" alt="GitHub Streak" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanorseloglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&text_color=FFFFFF&count_private=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanorseloglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&text_color=FFFFFF&count_private=true&cache_seconds=86400" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -190,7 +190,7 @@ Delivered a complete fullstack application from development to deployment, gaini
 
 <p align="center">
   <a href="https://github.com/bedirhanorseloglu">
-    <img src="https://github-profile-trophy.vercel.app/?username=bedirhanorseloglu&theme=barm&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bedirhanorseloglu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -207,7 +207,7 @@ Delivered a complete fullstack application from development to deployment, gaini
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/output/github-contribution-grid-snake-dark.svg?color_snake=A32638&color_dots=0D1117,A32638,F2A900,A32638,F2A900" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
@@ -219,3 +219,4 @@ Learning: Advanced Machine Learning Architectures & Scalable Systems Engineering
 Building: Generative AI integrated platforms and robust fullstack applications
 Exploring: GNSS optimization algorithms and deep learning applications
 Open To: Software Engineering roles prioritizing AI-driven solutions and system design
+```
