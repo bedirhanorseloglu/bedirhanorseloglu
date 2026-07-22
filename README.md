@@ -178,10 +178,10 @@ Delivered a complete fullstack application from development to deployment, gaini
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&icon_color=F2A900&text_color=FFFFFF&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&icon_color=F2A900&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=bedirhanorseloglu&theme=tokyonight&hide_border=true&background=0D1117&ring=A32638&fire=F2A900&currStreakLabel=F2A900" alt="GitHub Streak" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanorseloglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&text_color=FFFFFF&count_private=true&cache_seconds=86400" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bedirhanorseloglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&text_color=FFFFFF&count_private=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -190,7 +190,7 @@ Delivered a complete fullstack application from development to deployment, gaini
 
 <p align="center">
   <a href="https://github.com/bedirhanorseloglu">
-    <img src="https://github-profile-trophy.vercel.app/?username=bedirhanorseloglu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=bedirhanorseloglu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
