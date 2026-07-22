@@ -54,7 +54,7 @@ I am a Junior Software Engineer focused on AI-driven applications and fullstack 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gcp,firebase" alt="DevOps" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://skillicons.dev/icons?i=git,gcp,firebase,docker,vercel" alt="DevOps" />
   </a>
 </p>
 
