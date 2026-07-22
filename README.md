@@ -190,7 +190,7 @@ Delivered a complete fullstack application from development to deployment, gaini
 
 <p align="center">
   <a href="https://github.com/bedirhanorseloglu">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=bedirhanorseloglu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=bedirhanorseloglu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
