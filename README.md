@@ -1,222 +1,104 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A32638&secondaryColor=F2A900&height=200&section=header&text=Bedirhan%20Örseloğlu&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20&%20Fullstack&descAlignY=55&descAlign=50" alt="Header Banner" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F2A900&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Fullstack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
-  <br/>
-  <img src="https://img.shields.io/badge/B.S.-Software_Engineering-A32638?style=for-the-badge" alt="Degree" />
-  <img src="https://img.shields.io/badge/GPA-3.67%2F4.00-F2A900?style=for-the-badge" alt="GPA" />
-  <br/>
-  <img src="https://img.shields.io/badge/Location-Türkiye-A32638?style=for-the-badge" alt="Location" />
-  <a href="https://bedirhan-orseloglu-portfolyo.web.app/"><img src="https://img.shields.io/badge/Portfolio-Website-F2A900?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/bedirhanorseloglu"><img src="https://img.shields.io/badge/LinkedIn-Connect-A32638?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:orseloglubedirhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-F2A900?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-  <a href="https://github.com/bedirhanorseloglu"><img src="https://img.shields.io/badge/GitHub-Profile-A32638?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=bedirhanorseloglu&color=F2A900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/bedirhanorseloglu?style=for-the-badge&color=A32638" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/bedirhanorseloglu?style=for-the-badge&color=F2A900" alt="Stars" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820%2C50:7F1D1D%2C100:F2A900&height=220&section=header&text=Bedirhan%20%C3%96rselo%C4%9Flu&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" alt="Animated Bedirhan Orseloglu profile banner" />
 </p>
-
----
-
-## 👤 About
-
-I am a Junior Software Engineer focused on AI-driven applications and fullstack development. With a strong foundation in building real-world projects, I architect solutions using Python, FastAPI, React, and modern web technologies. I am deeply passionate about applying machine learning and generative AI to solve practical problems. My engineering methodology combines a product-oriented mindset with rigorous technical implementation, and I am actively seeking to grow in AI-focused and scalable software systems.
-
-**Open To:** Roles in Fullstack Development, AI Engineering, and Machine Learning within innovative and scalable environments.
-
----
-
-## 💻 Tech Stack
-
-### ❖ Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cs" alt="Languages" />
-  </a>
-</p>
-
-### ❖ Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend" />
-  </a>
-</p>
-
-### ❖ Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql" alt="Backend" />
-  </a>
-</p>
-
-### ❖ Cloud, DevOps & Tooling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gcp,firebase,vercel" alt="DevOps" />
-  </a>
-</p>
-
----
-
-## 🧠 AI / ML Expertise
 
 <p align="center">
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Deep Learning** | Advanced | TensorFlow, PyTorch, CNN, RNN, LSTM architectures |
-| **Data Science** | Advanced | NumPy, Pandas, Scikit-learn, CRISP-DM methodology |
-| **Generative AI** | Advanced | Dynamic content generation and API integrations (Google Gemini) |
-| **Optimization** | Intermediate | Kalman Filters, WLS, signal filtering (CNR, multipath removal) |
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=850&color=F2A900&center=true&vCenter=true&width=680&lines=Building+AI-powered+products;Deep+Learning+%7C+Python+%7C+FastAPI;Turning+data+into+useful+experiences" alt="Animated introduction" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🏆 Marathon - AI-Powered Productivity Platform (Top 7 Finalist, Google AI Academy)</b></summary>
-
-> Developed an AI-powered learning platform to improve focus and productivity for ADHD students using generative AI and personalized workflows.
 
 <p align="center">
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| React, Python, FastAPI | Fullstack Architecture | Real-time Interaction | OAuth2 / JWT | Top 7 Finalist | <a href="https://github.com/bedirhanorseloglu/MARATHON-Egitim-Platformu-YZTA-Bootcamp">🔗 Link</a> |
-
+  <img src="https://img.shields.io/badge/Software_Engineering-B.S.-7F1D1D?style=for-the-badge" alt="Software Engineering degree" />
+  <img src="https://img.shields.io/badge/GPA-3.67%2F4.00-F2A900?style=for-the-badge" alt="GPA 3.67 out of 4.00" />
+  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-0F766E?style=for-the-badge" alt="Based in Türkiye" />
 </p>
-
-**Professional Overview:**
-Built scalable backend services with FastAPI and integrated Gemini API for dynamic content generation and user-specific recommendations. Implemented AI-driven personalization to adapt study plans based on user behavior and attention patterns. Designed and contributed to a fullstack architecture enabling real-time interaction and progress tracking. Processed user interaction data to enhance engagement, task tracking, and performance analytics. Collaborated in an agile team using Scrum methodology, contributing to backend development and database design.
-</details>
-
-<details>
-<summary><b>🛰️ GNSS-Based Position Optimization (TÜBİTAK 2209/A Supported)</b></summary>
-
-> Developed a hybrid positioning system combining Kalman Filter and LSTM to improve GNSS-based location accuracy.
 
 <p align="center">
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, LSTM, Kalman Filter | 6.7M Data Points | High-throughput | Data Integrity | +50.3% Accuracy | <a href="https://github.com/bedirhanorseloglu/Bitirme-Projesi">🔗 Link</a> |
-
+  <a href="https://bedirhan-orseloglu-portfolyo.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-F2A900?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/bedirhanorseloglu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:orseloglubedirhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7F1D1D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-**Professional Overview:**
-Processed and analyzed ~6.7M GNSS data points from multi-device datasets across multiple real-world driving sessions. Applied signal filtering techniques (CNR, elevation angle, multipath removal) to enhance data quality. Implemented Weighted Least Squares (WLS) and Kalman Filter for noise reduction and state estimation. Designed and trained an LSTM model to capture temporal dependencies in GNSS signals and improve prediction accuracy. Achieved up to 50.3% improvement in positioning accuracy compared to baseline GPS systems.
-</details>
-
-<details>
-<summary><b>📚 DreamClass - AI-Based Educational Platform</b></summary>
-
-> Developed an AI-powered educational platform that generates personalized learning content using generative AI.
 
 <p align="center">
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Generative AI, Gemini API | Fullstack | Automated Generation | Secure Auth | Enhanced Engagement | <a href="https://github.com/bedirhanorseloglu/DreamClass-YZTA-JAM">🔗 Link</a> |
-
+  <img src="https://komarev.com/ghpvc/?username=bedirhanorseloglu&color=F2A900&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-**Professional Overview:**
-Integrated Google Gemini API to dynamically create story-based lessons, quizzes, and interactive study materials. Designed a flexible system to adapt content based on user preferences and learning needs. Built a fullstack architecture to support real-time content generation and user interaction. Implemented automated quiz generation and content personalization to enhance student engagement. Focused on creating an interactive and scalable learning experience through AI-driven features.
-</details>
-
 ---
 
-## 💼 Experience
+## About
 
-### Software Engineering Intern
-**Monilas IT**
-*July 2024 - September 2024*
+I am a software engineer focused on AI-driven applications and full-stack development. I build with Python, FastAPI, React, and machine learning, and enjoy turning technical ideas into practical products. My interests include deep learning, generative AI, and positioning systems.
 
-Delivered a complete fullstack application from development to deployment, gaining practical experience in real-world software development.
+**Open to:** AI engineering, machine learning, and full-stack software engineering opportunities.
 
-* Developed a full-stack bookstore web application using React, Node.js, and MySQL, implementing core features such as product listing and user interaction.
-* Designed responsive UI components to improve usability across different devices.
-* Built and integrated backend APIs, enabling efficient data flow between frontend and database.
-* Collaborated using Git-based workflows, gaining experience in team-based development processes.
-
-`React` `Node.js` `MySQL` `Git` `Fullstack Development` `API Integration`
-
----
-
-## 🏆 Achievements
+## Tech Stack
 
 <p align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Top 7 Finalist, Google AI Academy** | Selected among the Top 7 projects (Marathon Platform) and presented to the Google AI Academy jury. |
-| **TÜBİTAK 2209/A Supported Project** | Secured national research support for the GNSS-Based Position Optimization graduation project. |
-
+  <img src="https://skillicons.dev/icons?i=py,js,cs,react,fastapi,nodejs,mysql,git,gcp,firebase,vercel,tensorflow,pytorch&perline=7" alt="Python, JavaScript, C sharp, React, FastAPI, Node.js, MySQL, Git, Google Cloud, Firebase, Vercel, TensorFlow and PyTorch" />
 </p>
 
----
+## Featured Work
 
-## 📜 Certifications
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏆 MARATHON</h3>
+      <p>AI-powered productivity and learning platform with personalized workflows and Gemini integration.</p>
+      <p><strong>Recognition:</strong> Top 7 finalist, Google AI Academy</p>
+      <p><a href="https://github.com/bedirhanorseloglu/MARATHON-Egitim-Platformu-YZTA-Bootcamp">Explore project →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛰️ GNSS Position Optimization</h3>
+      <p>Positioning research combining Kalman filtering, WLS, and LSTM over real-world GNSS data.</p>
+      <p><strong>Impact:</strong> TÜBİTAK 2209/A supported; up to 50.3% improvement over baseline</p>
+      <p><a href="https://github.com/bedirhanorseloglu/Bitirme-Projesi">Explore project →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📚 DreamClass</h3>
+      <p>AI-based learning platform that creates personalized stories, lessons, and quizzes.</p>
+      <p><strong>Focus:</strong> Generative AI and interactive learning</p>
+      <p><a href="https://github.com/bedirhanorseloglu/DreamClass-YZTA-JAM">Explore project →</a></p>
+    </td>
+  </tr>
+</table>
 
-### Google
-* ![Google](https://img.shields.io/badge/Google-Project_Management_Professional_Certificate-A32638?style=flat-square&logo=google) (2025)
-  * Comprehensive training covering Agile Management, Project Planning, and Execution.
-
-### Yapay Zeka ve Teknoloji Akademisi
-* ![AI Academy](https://img.shields.io/badge/AI_&_Technology-Academy_Graduate-F2A900?style=flat-square) (2025)
-  * Successfully completed bootcamp focusing on web development and artificial intelligence.
-
-### Turkcell Geleceği Yazanlar
-* ![Turkcell](https://img.shields.io/badge/Turkcell-Data_Science_&_Machine_Learning-A32638?style=flat-square) (2023 - 2025)
-  * Extensive series covering Data Manipulation (Pandas, Numpy), Machine Learning (CRISP-DM), and Deep Learning (CNN, RNN, LSTM).
-
----
-
-## 📊 GitHub Analytics
+## Deep Learning Path
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&icon_color=F2A900&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=bedirhanorseloglu&theme=tokyonight&hide_border=true&background=0D1117&ring=A32638&fire=F2A900&currStreakLabel=F2A900" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bedirhanorseloglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A32638&text_color=FFFFFF&count_private=true" alt="Top Languages" width="60%" />
+  <a href="https://github.com/bedirhanorseloglu/ANN"><img src="https://img.shields.io/badge/01-ANN-7F1D1D?style=for-the-badge" alt="Artificial Neural Networks repository" /></a>
+  <a href="https://github.com/bedirhanorseloglu/CNN"><img src="https://img.shields.io/badge/02-CNN-F2A900?style=for-the-badge" alt="Convolutional Neural Networks repository" /></a>
+  <a href="https://github.com/bedirhanorseloglu/RNN"><img src="https://img.shields.io/badge/03-RNN-0F766E?style=for-the-badge" alt="Recurrent Neural Networks repository" /></a>
+  <a href="https://github.com/bedirhanorseloglu/LSTM"><img src="https://img.shields.io/badge/04-LSTM-2563EB?style=for-the-badge" alt="LSTM repository" /></a>
 </p>
 
----
+<p align="center">A hands-on learning series covering neural network fundamentals, CNN layers, recurrent networks, and LSTM applications.</p>
 
-## 🏆 GitHub Trophies
+## Experience & Recognition
+
+**Software Engineering Intern · Monilas IT** · July 2024 – September 2024<br>
+Built a full-stack bookstore application with React, Node.js, and MySQL; worked on responsive interfaces and backend APIs.
+
+- **Google AI Academy:** Top 7 finalist with the MARATHON platform.
+- **TÜBİTAK 2209/A:** Supported GNSS-based position optimization project.
+
+## Certifications
 
 <p align="center">
-  <a href="https://github.com/bedirhanorseloglu">
-    <img src="https://github-trophies.vercel.app/?username=bedirhanorseloglu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Google-Project_Management-7F1D1D?style=flat-square&logo=google" alt="Google Project Management Professional Certificate, 2025" />
+  <img src="https://img.shields.io/badge/AI_&_Technology_Academy-Graduate-F2A900?style=flat-square" alt="AI and Technology Academy graduate, 2025" />
+  <img src="https://img.shields.io/badge/Turkcell-Data_Science_&_ML-0F766E?style=flat-square" alt="Turkcell Data Science and Machine Learning, 2023 to 2025" />
 </p>
 
----
-
-## 📈 Contribution Activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bedirhanorseloglu&theme=react-dark&bg_color=0D1117&color=F2A900&line=A32638&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bedirhanorseloglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A900&icon_color=F2A900&text_color=FFFFFF" alt="GitHub statistics" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=bedirhanorseloglu&theme=tokyonight&hide_border=true&background=0D1117&ring=F2A900&fire=7F1D1D&currStreakLabel=F2A900" alt="GitHub contribution streak" width="49%" />
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bedirhanorseloglu&theme=react-dark&bg_color=0D1117&color=F2A900&line=7F1D1D&point=FFFFFF&hide_border=true" alt="Contribution activity graph" />
 </p>
 
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning: Advanced Machine Learning Architectures & Scalable Systems Engineering
-Building: Generative AI integrated platforms and robust fullstack applications
-Exploring: GNSS optimization algorithms and deep learning applications
-Open To: Software Engineering roles prioritizing AI-driven solutions and system design
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</p>
