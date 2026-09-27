@@ -96,7 +96,7 @@ Built a full-stack bookstore application with React, Node.js, and MySQL; worked 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bedirhanorseloglu&theme=react-dark&bg_color=0D1117&color=F2A900&line=7F1D1D&point=FFFFFF&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://ghchart.rshah.org/7F1D1D/bedirhanorseloglu" alt="GitHub contribution chart" />
 </p>
 
 <p align="center">
