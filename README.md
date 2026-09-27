@@ -85,9 +85,5 @@ Built a full-stack bookstore application with React, Node.js, and MySQL; worked 
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7F1D1D/bedirhanorseloglu" alt="GitHub contribution chart" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </p>
