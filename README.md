@@ -26,14 +26,9 @@
 
 ## About
 
-I am a software engineer focused on AI-driven applications and full-stack development. I build with Python, FastAPI, React, and machine learning, and enjoy turning technical ideas into practical products. My interests include deep learning, generative AI, and positioning systems.
+I am a software engineer focused on AI-driven applications and full-stack development. I build with Python, FastAPI, React, and machine learning, and enjoy turning technical ideas into practical products. My interests include deep learning, generative AI, and positioning systems. I am currently pursuing an M.Sc. in Artificial Intelligence and Data Engineering at Karadeniz Technical University.
 
 **Open to:** AI engineering, machine learning, and full-stack software engineering opportunities.
-
-## Education
-
-**M.Sc. Student, Artificial Intelligence and Data Engineering**<br>
-Karadeniz Technical University
 
 ## Tech Stack
 
