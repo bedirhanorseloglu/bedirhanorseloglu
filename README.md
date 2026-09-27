@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/profile-banner.svg?v=165ea3c" alt="Bedirhan Orseloglu profile banner" />
+  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/profile-banner-data-engineering.svg" alt="Bedirhan Orseloglu profile banner" />
 </p>
 
 <p align="center">
