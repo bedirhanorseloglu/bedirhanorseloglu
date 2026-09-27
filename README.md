@@ -37,8 +37,29 @@ Karadeniz Technical University
 
 ## Tech Stack
 
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,cs,react,fastapi,nodejs,mysql,git,gcp,firebase,vercel,tensorflow,pytorch&perline=7" alt="Python, JavaScript, C sharp, React, FastAPI, Node.js, MySQL, Git, Google Cloud, Firebase, Vercel, TensorFlow and PyTorch" />
+  <img src="https://skillicons.dev/icons?i=py,js,cs&perline=3" alt="Python, JavaScript, and C sharp" />
+</p>
+
+### AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" alt="TensorFlow and PyTorch" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css&perline=3" alt="React, HTML, and CSS" />
+</p>
+
+### Backend & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql&perline=3" alt="FastAPI, Node.js, and MySQL" />
+</p>
+
+### Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,gcp,firebase,vercel&perline=4" alt="Git, Google Cloud, Firebase, and Vercel" />
 </p>
 
 ## Featured Work
