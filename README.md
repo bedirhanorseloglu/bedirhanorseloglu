@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820%2C50:7F1D1D%2C100:F2A900&height=220&section=header&text=Bedirhan%20%C3%96rselo%C4%9Flu&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" alt="Animated Bedirhan Orseloglu profile banner" />
+  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/profile-banner.svg" alt="Bedirhan Orseloglu profile banner" />
 </p>
 
 <p align="center">
@@ -60,17 +60,6 @@ I am a software engineer focused on AI-driven applications and full-stack develo
     </td>
   </tr>
 </table>
-
-## Deep Learning Path
-
-<p align="center">
-  <a href="https://github.com/bedirhanorseloglu/ANN"><img src="https://img.shields.io/badge/01-ANN-7F1D1D?style=for-the-badge" alt="Artificial Neural Networks repository" /></a>
-  <a href="https://github.com/bedirhanorseloglu/CNN"><img src="https://img.shields.io/badge/02-CNN-F2A900?style=for-the-badge" alt="Convolutional Neural Networks repository" /></a>
-  <a href="https://github.com/bedirhanorseloglu/RNN"><img src="https://img.shields.io/badge/03-RNN-0F766E?style=for-the-badge" alt="Recurrent Neural Networks repository" /></a>
-  <a href="https://github.com/bedirhanorseloglu/LSTM"><img src="https://img.shields.io/badge/04-LSTM-2563EB?style=for-the-badge" alt="LSTM repository" /></a>
-</p>
-
-<p align="center">A hands-on learning series covering neural network fundamentals, CNN layers, recurrent networks, and LSTM applications.</p>
 
 ## Experience & Recognition
 
