@@ -3,9 +3,13 @@
 </p>
 
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=850&color=F2A900&center=true&vCenter=true&width=680&lines=Building+AI-powered+products;Deep+Learning+%7C+Python+%7C+FastAPI;Turning+data+into+useful+experiences" alt="Animated introduction" />
 </p>
+
+
 
 
 <p align="center">
@@ -15,6 +19,8 @@
 </p>
 
 
+
+
 <p align="center">
   <a href="https://bedirhan-orseloglu-portfolyo.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-F2A900?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/bedirhanorseloglu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
@@ -22,44 +28,40 @@
 </p>
 
 
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bedirhanorseloglu&color=F2A900&style=flat-square&label=PROFILE%20VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bedirhanorseloglu&color=F2A900&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views" />
 </p>
+
+
 
 
 ---
 
 
+
+
 ## About
+
+
 
 
 I am a software engineer focused on AI-driven applications and full-stack development. I build with Python, FastAPI, React, and machine learning, and enjoy turning technical ideas into practical products. My interests include deep learning, generative AI, and positioning systems. I am currently pursuing an M.Sc. in Artificial Intelligence and Data Engineering at Karadeniz Technical University.
 
 
+
+
 **Open to:** AI engineering, machine learning, and full-stack software engineering opportunities.
+
+
 
 
 ## Tech Stack
 
 
+
+
 ### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,cs&perline=3" alt="Python, JavaScript, and C sharp" />
-</p>
-
-
-### AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" alt="TensorFlow and PyTorch" />
-</p>
-
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css&perline=3" alt="React, HTML, and CSS" />
-</p>
-
-
-### Backend & Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql&perline=3" alt="FastAPI, Node.js, and MySQL" />
