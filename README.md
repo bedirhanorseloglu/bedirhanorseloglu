@@ -1,4 +1,45 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/image-1790856601185.png" alt="AI engineering profile banner" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=850&color=F2A900&center=true&vCenter=true&width=680&lines=Building+AI-powered+products;Deep+Learning+%7C+Python+%7C+FastAPI;Turning+data+into+useful+experiences" alt="Animated introduction" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table align="center" border="0" cellpadding="8">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Software_Engineering-B.S.-F2A900?style=for-the-badge" alt="Software Engineering degree" /></td><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,100:7F1D1D&height=220&section=header&text=AI%20%2F%20FULL-STACK%20ENGINEER&fontSize=30&fontColor=F2A900&animation=fadeIn&fontAlignY=42&desc=Deep%20Learning%20%7C%20Python%20%7C%20FastAPI&descAlignY=62&descSize=14" alt="AI engineering network banner" /><p align="center">
   <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/ai-engineering-banner.svg/ai-engineering-banner.svg" alt="AI engineering neural network banner" />
 </p>
 
