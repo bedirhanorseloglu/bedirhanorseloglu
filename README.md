@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/profile-banner-data-engineering.svg" alt="Bedirhan Orseloglu profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,100:7F1D1D&height=220&section=header&text=AI%20%2F%20FULL-STACK%20ENGINEER&fontSize=30&fontColor=F2A900&animation=fadeIn&fontAlignY=42&desc=Deep%20Learning%20%7C%20Python%20%7C%20FastAPI&descAlignY=62&descSize=14" alt="AI engineering network banner" />
 </p>
+
+
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,100:F2A900&height=160&section=header&text=AI%20%2F%20FULL-STACK%20ENGINEER&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Deep%20Learning%20%7C%20Python%20%7C%20FastAPI&descAlignY=62&descSize=14" alt="AI and full-stack engineering banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=850&color=F2A900&center=true&vCenter=true&width=680&lines=Building+AI-powered+products;Deep+Learning+%7C+Python+%7C+FastAPI;Turning+data+into+useful+experiences" alt="Animated introduction" />
 </p>
+
+
 
 
 <table align="center" border="0" cellpadding="8">
@@ -25,38 +29,26 @@
 </table>
 
 
+
+
 ---
+
+
 
 
 ## About
 
 
+
+
 I am a software engineer focused on AI-driven applications and full-stack development. I build with Python, FastAPI, React, and machine learning, and enjoy turning technical ideas into practical products. My interests include deep learning, generative AI, and positioning systems. I am currently pursuing an M.Sc. in Artificial Intelligence and Data Engineering at Karadeniz Technical University.
+
+
 
 
 **Open to:** AI engineering, machine learning, and full-stack software engineering opportunities.
 
 
+
+
 ## Tech Stack
-
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,cs&perline=3" alt="Python, JavaScript, and C sharp" />
-</p>
-
-
-### AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" alt="TensorFlow and PyTorch" />
-</p>
-
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css&perline=3" alt="React, HTML, and CSS" />
-</p>
-
-
-### Backend & Data
-<p align="center">
