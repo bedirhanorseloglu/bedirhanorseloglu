@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/profile-banner-data-engineering.svg" alt="Bedirhan Orseloglu profile banner" />
+  <img src="https://raw.githubusercontent.com/bedirhanorseloglu/bedirhanorseloglu/main/image-1790856601185.png" alt="AI engineering profile banner" />
 </p>
 
 <p align="center">
@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-B.S.-7F1D1D?style=for-the-badge" alt="Software Engineering degree" />
-  <img src="https://img.shields.io/badge/GPA-3.67%2F4.00-F2A900?style=for-the-badge" alt="GPA 3.67 out of 4.00" />
-  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-0F766E?style=for-the-badge" alt="Based in Türkiye" />
+  <img src="https://img.shields.io/badge/Software_Engineering-B.S.-F2A900?style=for-the-badge" alt="Software Engineering degree" />
+  <img src="https://img.shields.io/badge/GPA-3.67%2F4.00-7F1D1D?style=for-the-badge" alt="GPA 3.67 out of 4.00" />
+  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-F2A900?style=for-the-badge" alt="Based in Türkiye" />
 </p>
 
 <p align="center">
-  <a href="https://bedirhan-orseloglu-portfolyo.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-F2A900?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/bedirhanorseloglu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://bedirhan-orseloglu-portfolyo.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/bedirhanorseloglu"><img src="https://img.shields.io/badge/LinkedIn-Connect-F2A900?style=for-the-badge&logo=linkedin&logoColor=111827" alt="LinkedIn" /></a>
   <a href="mailto:orseloglubedirhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7F1D1D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bedirhanorseloglu&color=F2A900&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bedirhanorseloglu&color=F2A900&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views" />
 </p>
 
 ---
